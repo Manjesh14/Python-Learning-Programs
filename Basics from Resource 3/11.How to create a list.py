@@ -1,0 +1,10 @@
+num=[1,2,3,4]
+print(num)
+letters=['a','m','c']
+print(letters)
+str=["Manjesh","Manjula","Srinivasa"]
+print(str)
+mix=[1,2,"Manjesh","pettappa","A"]
+print(mix)
+mat=[[1,2],['a','b']]
+print(mat)

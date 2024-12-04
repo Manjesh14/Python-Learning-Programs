@@ -1,0 +1,9 @@
+var="Simplilearn"
+print(var[0])
+print(var[5])
+print(var[len(var)-1])
+print(var[0:4])
+print(var[:4])
+print(var[5:])
+print(var[:])
+print(len(var))

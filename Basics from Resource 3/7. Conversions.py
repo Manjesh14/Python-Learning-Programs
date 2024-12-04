@@ -1,0 +1,9 @@
+x="132"
+print(type(x))
+x=int(x)
+print(type(x))
+x=float(x)
+print(type(x))
+x=complex(x)
+print(type(x))
+print(complex(2,8))
